@@ -34,9 +34,7 @@ I previously completed my **Engineer's degree** at **University of Rzeszów** in
 - 📱 **Responsive Design** - advanced design techniques
 
 ## 📫 Contact
-- 💼 LinkedIn: [Your LinkedIn profile]
-- 📧 Email: [your.email@example.com]
-- 🌐 Portfolio: [Your website]
+- 📧 Email: [calka.szymek@gmail.com]
 
 ---
 ⭐ **"Always learning, always growing"** ⭐
