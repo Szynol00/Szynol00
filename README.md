@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there! 👋 I'm Szymon
 
-<!--
-**Szynol00/Szynol00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About me
+I'm a Computer Science student at **WSIiZ (University of Information Technology and Management) in Rzeszów**, currently pursuing my Master's degree in **"IT Analytics in Business"**. 
 
-Here are some ideas to get you started:
+I previously completed my **Engineer's degree** at **University of Rzeszów** in Computer Science with specialization in **"Web Applications"**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interests
+- 💻 Web application development
+- 📊 Data analytics
+- 🎨 User interface design
+- 🖼️ 3D graphics
+
+## 🛠️ Technologies and skills
+
+**Backend & Frontend:**
+- Laravel (PHP)
+- React
+- JavaScript
+
+**Styling & Design:**
+- Bootstrap 5
+- Tailwind CSS
+- Figma
+
+**Other skills:**
+- HTML5 & CSS3
+- Blender (3D graphics - basics)
+- User interface design
+
+## 📈 Currently learning
+- 📊 **Data Analytics** - developing business analysis skills
+- 🔍 **Business Intelligence** - analytical tools and techniques
+- 📱 **Responsive Design** - advanced design techniques
+
+## 📫 Contact
+- 💼 LinkedIn: [Your LinkedIn profile]
+- 📧 Email: [your.email@example.com]
+- 🌐 Portfolio: [Your website]
+
+---
+⭐ **"Always learning, always growing"** ⭐
